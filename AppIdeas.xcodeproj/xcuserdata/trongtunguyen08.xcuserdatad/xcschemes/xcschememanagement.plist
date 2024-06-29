@@ -7,7 +7,25 @@
 		<key>AppIdeas.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>AppIdeasWidgetsExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E10520F62C2D1DF8002EAC94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1C3FECE2C2FEF9B003D5E2D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
